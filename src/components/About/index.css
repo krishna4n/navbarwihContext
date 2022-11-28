@@ -1,0 +1,18 @@
+.about-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-image {
+  height: 100px;
+  width: 100px;
+}
+.about-container-dark {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
